@@ -1,0 +1,16 @@
+{
+    "Scan start": 0,
+    "Scan end": 500000,
+    "Base Integration Index": 6,
+    "X": 30,
+    "Y": 30,
+    "X_RES": 300,
+    "Y_RES": 300,
+    "X_OFFSET": 142,
+    "Y_OFFSET": 250,
+    "Scan Amount": 1000,
+    "Skip": 1,
+    "Contrast": 1,
+    "Transmit Gain": 63,
+    "Scan Interval": 0 
+}
